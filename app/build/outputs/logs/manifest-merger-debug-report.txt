@@ -1,0 +1,122 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [:giraffeplayer] /home/ann07/AndroidProjectsPracticing/GiraffePlayer/giraffeplayer/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/ann07/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c6d4689f7e7762e8f6bc50b960086d05/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/ann07/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/1543a96396b5b2041a681b9b6c6a953d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/ann07/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/22eda2388f7d0ed9bb2b22346dfc6968/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/ann07/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/aec6b083403c9c2c887b23d45bfc202c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/ann07/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/bc00bab77863ffb76973c31004c56005/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/ann07/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a7a017e0f051b1e4297da89923cacc85/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/ann07/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d0ae32eec59a3f7183c7a75e3d5f7d0e/AndroidManifest.xml:17:1-22:12
+MERGED from [:ijkplayer-java] /home/ann07/AndroidProjectsPracticing/GiraffePlayer/ijkplayer-java/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/ann07/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/fc454f31812764651a8480dd2a00f7ff/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/ann07/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/f3267492f50125cfe2a932f1ab717acb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/ann07/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/14b9b8bd132f558dada0738cd9348ff1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/ann07/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6d1234d86325a3be3bd353c3f90b9e1d/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml:2:11-60
+		INJECTED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml
+		ADDED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml
+		ADDED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml:3:11-69
+application
+ADDED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml:7:5-23:19
+MERGED from [:giraffeplayer] /home/ann07/AndroidProjectsPracticing/GiraffePlayer/giraffeplayer/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-22:19
+MERGED from [:giraffeplayer] /home/ann07/AndroidProjectsPracticing/GiraffePlayer/giraffeplayer/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-22:19
+	android:supportsRtl
+		ADDED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml:9:9-41
+	android:allowBackup
+		ADDED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml:11:9-40
+activity#tcking.github.com.giraffeplayer.example.MainActivity
+ADDED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml:12:9-22:20
+	android:screenOrientation
+		ADDED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml:15:13-47
+	android:configChanges
+		ADDED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml:14:13-74
+	android:name
+		ADDED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml:18:17-68
+	android:name
+		ADDED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml:20:17-76
+	android:name
+		ADDED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml
+INJECTED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml
+MERGED from [:giraffeplayer] /home/ann07/AndroidProjectsPracticing/GiraffePlayer/giraffeplayer/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:giraffeplayer] /home/ann07/AndroidProjectsPracticing/GiraffePlayer/giraffeplayer/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/ann07/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c6d4689f7e7762e8f6bc50b960086d05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/ann07/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c6d4689f7e7762e8f6bc50b960086d05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/ann07/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/1543a96396b5b2041a681b9b6c6a953d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/ann07/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/1543a96396b5b2041a681b9b6c6a953d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/ann07/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/22eda2388f7d0ed9bb2b22346dfc6968/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/ann07/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/22eda2388f7d0ed9bb2b22346dfc6968/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/ann07/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/aec6b083403c9c2c887b23d45bfc202c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/ann07/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/aec6b083403c9c2c887b23d45bfc202c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/ann07/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/bc00bab77863ffb76973c31004c56005/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/ann07/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/bc00bab77863ffb76973c31004c56005/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/ann07/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a7a017e0f051b1e4297da89923cacc85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/ann07/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a7a017e0f051b1e4297da89923cacc85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/ann07/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d0ae32eec59a3f7183c7a75e3d5f7d0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/ann07/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d0ae32eec59a3f7183c7a75e3d5f7d0e/AndroidManifest.xml:20:5-44
+MERGED from [:ijkplayer-java] /home/ann07/AndroidProjectsPracticing/GiraffePlayer/ijkplayer-java/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:ijkplayer-java] /home/ann07/AndroidProjectsPracticing/GiraffePlayer/ijkplayer-java/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/ann07/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/fc454f31812764651a8480dd2a00f7ff/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/ann07/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/fc454f31812764651a8480dd2a00f7ff/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/ann07/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/f3267492f50125cfe2a932f1ab717acb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/ann07/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/f3267492f50125cfe2a932f1ab717acb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/ann07/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/14b9b8bd132f558dada0738cd9348ff1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/ann07/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/14b9b8bd132f558dada0738cd9348ff1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/ann07/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6d1234d86325a3be3bd353c3f90b9e1d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/ann07/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6d1234d86325a3be3bd353c3f90b9e1d/AndroidManifest.xml:20:5-44
+INJECTED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml
+INJECTED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml
+		ADDED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml
+		ADDED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ann07/AndroidProjectsPracticing/GiraffePlayer/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [:giraffeplayer] /home/ann07/AndroidProjectsPracticing/GiraffePlayer/giraffeplayer/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [:giraffeplayer] /home/ann07/AndroidProjectsPracticing/GiraffePlayer/giraffeplayer/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:giraffeplayer] /home/ann07/AndroidProjectsPracticing/GiraffePlayer/giraffeplayer/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [:giraffeplayer] /home/ann07/AndroidProjectsPracticing/GiraffePlayer/giraffeplayer/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:22-76
+activity#tcking.github.com.giraffeplayer.GiraffePlayerActivity
+ADDED from [:giraffeplayer] /home/ann07/AndroidProjectsPracticing/GiraffePlayer/giraffeplayer/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:9-21:50
+	android:screenOrientation
+		ADDED from [:giraffeplayer] /home/ann07/AndroidProjectsPracticing/GiraffePlayer/giraffeplayer/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:13-47
+	android:configChanges
+		ADDED from [:giraffeplayer] /home/ann07/AndroidProjectsPracticing/GiraffePlayer/giraffeplayer/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:13-74
+	android:name
+		ADDED from [:giraffeplayer] /home/ann07/AndroidProjectsPracticing/GiraffePlayer/giraffeplayer/build/intermediates/manifests/full/debug/AndroidManifest.xml:19:13-81
