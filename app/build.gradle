@@ -27,6 +27,7 @@ dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation 'com.android.support:appcompat-v7:27.1.1'
     implementation project(':giraffeplayer')
+    implementation project(path: ':ijkplayer-java')
 
     testImplementation 'junit:junit:4.12'
 }
